@@ -1,7 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently working on a server called RedlineRP
-🌱 I’m currently learning TypeScript
-👯 I’m looking to collaborate on anything relating to Fivem
+-🔭 I’m currently a dev for server called Redlinrp
+- Join here https://discord.com/redlinerp
+- I'm currenty learning typescript
+- Barely anything on my page has been tested
 
 <!--
 **Guccirp2/Guccirp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
