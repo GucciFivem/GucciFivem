@@ -3,6 +3,7 @@
 - Join here https://discord.com/invite/redlinerp
 - I'm currenty learning typescript
 - Barely anything on my page has been tested
+- Dm me script ideas on discord Gucci#1966
 
 <!--
 **Guccirp2/Guccirp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
