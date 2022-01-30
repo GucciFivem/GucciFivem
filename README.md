@@ -1,5 +1,5 @@
 ### Hi there 👋
--�I’m currently a dev for server called Redlinrp
+- I’m currently a dev for server called Redlinrp
 - Join here https://discord.com/invite/redlinerp
 - I'm currenty learning typescript
 - Barely anything on my page has been tested
